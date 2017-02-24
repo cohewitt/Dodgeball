@@ -1,0 +1,53 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.170 seconds
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\cohewitt\Documents\Dodgeball\Dodgeball_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.412903 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.639139 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 0.539306 ms (FindLiveObjects: 0.060586 ms CreateObjectMapping: 0.062293 ms MarkObjects: 0.366079 ms  DeleteObjects: 0.034986 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.553065 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 0.954879 ms (FindLiveObjects: 0.043519 ms CreateObjectMapping: 0.040106 ms MarkObjects: 0.500906 ms  DeleteObjects: 0.368639 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.194238 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.551679 ms (FindLiveObjects: 0.072106 ms CreateObjectMapping: 0.063999 ms MarkObjects: 0.379306 ms  DeleteObjects: 0.034986 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.276691 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 1.198505 ms (FindLiveObjects: 0.063999 ms CreateObjectMapping: 0.067839 ms MarkObjects: 0.648532 ms  DeleteObjects: 0.415146 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5e4 -> priority: 1 
